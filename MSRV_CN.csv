@@ -1,0 +1,31 @@
+Number;Sample;C_p;d13C;N_p;d15N;Site;Age;Context
+1;C1-A;0.34;-20.70;0.10;11.33;Cubalel C1;;Phase IIIA
+2;C1-B;0.41;-20.43;0.25;12.78;Cubalel C1;;Phase IIIA
+3;C1-C;0.50;-17.06;0.51;13.05;Cubalel C1;;Phase IIIA
+4;C1-D;0.47;-18.27;0.46;12.93;Cubalel C1;;Phase IIIA
+5;C1-E;0.35;-18.93;0.36;13.12;Cubalel C1;;Phase IIIA
+6;C1-F;0.40;-19.73;0.11;11.96;Cubalel C1;;Phase IIIA
+7;C1-G;2.03;-20.74;0.21;12.89;Cubalel C1;;Phase IIIA
+8;C1-H;0.22;-22.18;0.05;11.14;Cubalel C1;;Phase IIIA
+9;C1-I;0.56;-20.35;0.05;10.76;Cubalel C1;;Phase IIIA
+10;C1-J;1.27;-22.32;0.07;10.10;Cubalel C1;;Phase II
+11;C1-K;0.21;-19.13;0.02;8.11;Cubalel C1;;Phase IA
+12;C1-L;0.08;-18.72;0.01;4.27;Cubalel C1;;Sterile
+13;C1-M;0.04;-19.39;0.01;3.44;Cubalel C1;;Sterile
+14;Siwre 3 1S;0.25;-18.67;0.05;11.91;Siwre 1S;;Sterile
+15;North wall C6 N;;-23.93;;10.02;Cubalel C6;;Sterile
+16;North wall C6 L;0.13;-21.33;0.010;11.61;Cubalel C6;;Sterile
+19;C3-B A;0.05;-23.00;0.003;15.06;Cubalel C3;;Sterile
+20;C3-B B;0.06;-22.89;0.004;13.96;Cubalel C3;;Sterile
+21;2S 15;0.10;-20.61;0.009;13.13;Siwre 2S;5.22;Sterile
+22;"Siwre #2 ""E""";0.35;-21.38;0.033;15.93;Siwre 2S;0.63;Mixed III IV V
+23;"Siwre #3 ""H""";0.88;-18.58;0.076;16.02;Siwre 2S;1.00;Mixed III IV V
+24;"Siwre #4 ""J""";0.39;-17.95;0.037;16.08;Siwre 2S;1.03;Mixed III IV V
+25;"Siwre #5 ""K""";0.86;-18.66;0.064;13.36;Siwre 2S;1.50;Mixed III IV V
+26;"Siwre #7 ""D""";1.10;-16.93;0.080;14.42;Siwre 2S;2.70;Phase IB
+27;"Siwre #8 ""C""";0.31;-19.42;0.024;13.20;Siwre 2S;3.05;Phase IB
+28;"Siwre #9 ""A""";0.44;-19.66;0.031;13.54;Siwre 2S;3.35;Phase IB
+29;"Siwre #10 ""F""";0.30;-20.91;0.024;13.45;Siwre 2S;3.82;Phase IB
+30;"Siwre #11 ""K""";0.85;-15.03;0.069;12.35;Siwre 2S;4.12;Phase IB
+31;"Siwre #12 ""F""";0.20;-20.30;0.016;14.76;Siwre 2S;4.20;Phase IB
+32;"Siwre #13 ""I""";0.25;-20.51;0.019;13.91;Siwre 2S;4.38;Phase IB
